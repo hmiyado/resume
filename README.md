@@ -17,7 +17,7 @@ Android, iOS チームの PR レビュー、仕様策定、タスク管理、ス
 
 ### Android 開発
 
-| | |
+| 種別 | 詳細 |
 |:-|:-|
 | 言語 | Kotlin, Java |
 | ライブラリ | Jetpack, RxJava, OkHttp, Glide, Mockito |
@@ -26,7 +26,7 @@ Android, iOS チームの PR レビュー、仕様策定、タスク管理、ス
 
 ### ツール
 
-| | |
+| 種別 | 詳細 |
 |:-|:-|
 | バージョン管理 | git |
 | チーム開発 | GitHub. PR とレビューに基づく開発 |
