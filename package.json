@@ -1,0 +1,17 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hmiyado/resume.git",
+  "author": "miyado <hmiyado@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "lint": "textlint README.md",
+    "format": "npx textlint --fix README.md"
+  },
+  "devDependencies": {
+    "textlint": "^11.9.0",
+    "textlint-rule-preset-jtf-style": "^2.3.8"
+  }
+}
