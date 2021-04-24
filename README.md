@@ -151,4 +151,5 @@ Huskey を使って eslint/prettier をコミット時に自動で走らせる�
 
 ## アウトプット
 
-https://qiita.com/hmiyado
+- [Qiita](https://qiita.com/hmiyado)
+- [GitHub](https://github.com/hmiyado)
