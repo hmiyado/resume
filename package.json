@@ -8,11 +8,17 @@
   "private": true,
   "scripts": {
     "lint": "textlint README.md",
-    "format": "npx textlint --fix README.md"
+    "format": "npx textlint --fix README.md",
+    "prepare": "husky install"
   },
   "devDependencies": {
+    "husky": "^6.0.0",
+    "lint-staged": "^10.5.4",
     "textlint": "^11.9.0",
     "textlint-filter-rule-allowlist": "^2.0.1",
     "textlint-rule-preset-ja-technical-writing": "^4.0.1"
+  },
+  "lint-staged": {
+    "README.md": "yarn format"
   }
 }
