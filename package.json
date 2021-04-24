@@ -19,6 +19,6 @@
     "textlint-rule-preset-ja-technical-writing": "^4.0.1"
   },
   "lint-staged": {
-    "README.md": "yarn format"
+    "README.md": ["yarn lint", "yarn format"]
   }
 }
