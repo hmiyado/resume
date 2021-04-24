@@ -1,6 +1,12 @@
 {
     "rules": {
         "preset-ja-technical-writing": true,
+        "no-mix-dearu-desumasu": {
+            "preferInHeader": "である",
+            "preferInBody": "である",
+            "preferInList": "である",
+            "strict": true
+        }
     },
     "filters": {
         "allowlist": {
