@@ -1,5 +1,10 @@
 {
     "rules": {
-        "preset-jtf-style": true
+        "preset-ja-technical-writing": true,
+    },
+    "filters": {
+        "allowlist": {
+            "allow": ["基本情報技術者資格", "応用情報技術者資格"]
+        }
     }
 }
