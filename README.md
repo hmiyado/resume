@@ -133,21 +133,20 @@ husky を使って ESLint/Prettier をコミット時に自動で走らせるよ
 
 ### Android 開発
 
-| 種別           | 詳細                                                   |
-| :------------- | :----------------------------------------------------- |
-| 言語           | Kotlin, Java                                           |
-| ライブラリ     | Jetpack, RxJava, OkHttp, Glide, Mockito                |
-| アーキテクチャ | クリーンアーキテクチャをベースにした独自アーキテクチャ |
-| CI/CD          | Bitrise, Jenkins, DeployGate                           |
+| 種別           | 詳細                                                           |
+| :------------- | :------------------------------------------------------------- |
+| 言語           | Kotlin, Java                                                   |
+| ライブラリ     | Jetpack, RxJava, OkHttp, Glide, Mockito                        |
+| アーキテクチャ | クリーンアーキテクチャと MVVM をベースにした独自アーキテクチャ |
+| CI/CD          | Bitrise, Jenkins, DeployGate                                   |
 
 ### ツール
 
 | 種別                 | 詳細                                                                |
 | :------------------- | :------------------------------------------------------------------ |
-| バージョン管理       | Git                                                                 |
-| チーム開発           | GitHub. PR とレビューに基づく開発                                   |
+| バージョン管理       | Git, GitHub                                                         |
 | タスク管理           | Jira                                                                |
-| ドキュメンテーション | Confluence, Google Docs, Google スプレッドシート                                |
+| ドキュメンテーション | Confluence, Google Docs, Google スプレッドシート                    |
 | コミュニケーション   | Slack ( Slack Bot の作成と運用による業務効率化を含む）, Google Meet |
 
 ### 資格
