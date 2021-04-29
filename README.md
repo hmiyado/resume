@@ -126,8 +126,8 @@ Android 固有の問題でリリースできないなどあれば優先的に対
 #### lint/format の整備
 
 個人的にも不慣れな JavaScript で書かれているため、コードの妥当性を担保するために lint/format を整備した。
-Huskey を使って eslint/prettier をコミット時に自動で走らせるようにした。
-また、Danger で eslint のエラーを PR にコメントする設定を追加した。
+husky を使って ESLint/Prettier をコミット時に自動で走らせるようにした。
+また、Danger で ESLint のエラーを PR にコメントする設定を追加した。
 
 ## スキル
 
@@ -144,10 +144,10 @@ Huskey を使って eslint/prettier をコミット時に自動で走らせる�
 
 | 種別                 | 詳細                                                                |
 | :------------------- | :------------------------------------------------------------------ |
-| バージョン管理       | git                                                                 |
+| バージョン管理       | Git                                                                 |
 | チーム開発           | GitHub. PR とレビューに基づく開発                                   |
-| タスク管理           | JIRA                                                                |
-| ドキュメンテーション | Confluence, Google Docs, Spreadsheet                                |
+| タスク管理           | Jira                                                                |
+| ドキュメンテーション | Confluence, Google Docs, Google スプレッドシート                                |
 | コミュニケーション   | Slack ( Slack Bot の作成と運用による業務効率化を含む）, Google Meet |
 
 ### 資格

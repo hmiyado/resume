@@ -6,6 +6,9 @@
             "preferInBody": "である",
             "preferInList": "である",
             "strict": true
+        },
+        "prh": {
+            "rulePaths" :["./prh.yml"]
         }
     },
     "filters": {

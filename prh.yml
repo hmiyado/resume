@@ -1,0 +1,40 @@
+version: 1
+rules:
+  # Android
+  - expected: Android
+  - expected: Kotlin
+  - expected: Java
+  - expected: RxJava
+  - expected: Jetpack
+  - expected: OkHttp
+  - expected: Glide
+  - expected: Mockito
+  # iOS
+  - expected: iOS
+  - expected: RxSwift
+  # Web
+  - expected: JavaScript
+  - expected: husky
+    pattern: Huskey
+  - expected: ESLint
+  - expected: Prettier
+  - expected: React Native
+  # CI/CD
+  - expected: Jenkins
+  - expected: Bitrise
+  - expected: Danger
+  - expected: fastlane
+  - expected: DeployGate
+  # VCS
+  - expected: Git
+  - expected: GitHub
+  # Documentation
+  - expected: Jira
+  - expected: Confluence
+  - expected: Google Docs
+  - expected: Google スプレッドシート # 英語だと Google Sheets, 日本語だと Google スプレッドシート
+    patterns: Spreadsheet
+  - expected: Qiita
+  # Communication
+  - expected: Slack
+  - expected: Google Meet
