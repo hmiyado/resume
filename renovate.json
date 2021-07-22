@@ -2,6 +2,7 @@
   "extends": [
     "config:base"
   ],
+  "rebaseWhen": "behind-base-branch",
   "packageRules": [
     {
       "matchDepTypes": ["devDependencies"],
