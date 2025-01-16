@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "husky": "9.1.7",
-    "lint-staged": "15.3.0",
+    "lint-staged": "15.4.0",
     "textlint": "14.4.2",
     "textlint-filter-rule-allowlist": "4.0.0",
     "textlint-rule-preset-ja-technical-writing": "9.0.0",
