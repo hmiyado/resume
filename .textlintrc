@@ -14,6 +14,7 @@
     "filters": {
         "allowlist": {
             "allow": ["基本情報技術者資格", "応用情報技術者資格"]
-        }
+        },
+        "comments": true
     }
 }
