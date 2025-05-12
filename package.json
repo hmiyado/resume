@@ -16,7 +16,8 @@
     "lint-staged": "15.5.2",
     "textlint": "14.7.1",
     "textlint-filter-rule-allowlist": "4.0.0",
-    "textlint-rule-preset-ja-technical-writing": "9.0.0",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-preset-ja-technical-writing": "12.0.2",
     "textlint-rule-prh": "6.1.0"
   },
   "lint-staged": {
