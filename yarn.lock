@@ -1282,9 +1282,9 @@ hastscript@^5.0.0:
     space-separated-tokens "^1.0.0"
 
 hono@^4.11.4:
-  version "4.11.7"
-  resolved "https://registry.yarnpkg.com/hono/-/hono-4.11.7.tgz#f5b8d0b0b503ef0d913a246012dda52ea23dbe53"
-  integrity sha512-l7qMiNee7t82bH3SeyUCt9UF15EVmaBvsppY2zQtrbIhl/yzBTny+YUxsVjSjQ6gaqaeVtZmGocom8TzBlA4Yw==
+  version "4.12.1"
+  resolved "https://registry.yarnpkg.com/hono/-/hono-4.12.1.tgz#e8d56c98a679c1cf03d47146f410ea9a2c25b938"
+  integrity sha512-hi9afu8g0lfJVLolxElAZGANCTTl6bewIdsRNhaywfP9K8BPf++F2z6OLrYGIinUwpRKzbZHMhPwvc0ZEpAwGw==
 
 hookified@^1.11.0:
   version "1.11.0"
